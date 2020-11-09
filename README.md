@@ -11,7 +11,7 @@ First, paste "TutorialSystem" and "tutorialTexts" into an empty object.
 Then all public variables except those with utility are registered from the inspector.
 Please refer to UnityPackage for the objects you need.
 
-[Click here for more information] ()
+[Click here for more information] (https://ge-planet.com/en/creating-app-tutorials-in-unity-text-display-features-with-coroutines/)
 
 ## Contribution
 
